@@ -127,8 +127,6 @@ map = f'0.0     0.0     1.8     0.0     bottom left\n' \
       f'2.0     3.7     2.0     4.3     maze middle vertical\n' \
       f'0.9     4.3     3.1     4.3     maze top\n'
 
-os.chdir('./../../test/')
-
 if os.path.exists('results_python.txt'):
     os.remove('results_python.txt')
 
