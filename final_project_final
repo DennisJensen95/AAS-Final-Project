@@ -14,7 +14,7 @@
 % laser update call
 laser "resetplanner"
 laser "scanget"
-laser "resetlocalizer" %do we need this?
+laser "resetlocalizer" 
 
 % For logging purposes
 laser "scanset logopen"
@@ -30,7 +30,7 @@ laser "odopose log=true"
 % mission 3: drive to goal
 
 %first mission is initialized
-mission = 2
+mission = 1
 
 %first guidemark to visit
 gmkno = 2
