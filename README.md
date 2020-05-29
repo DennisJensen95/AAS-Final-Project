@@ -32,13 +32,13 @@ Lastly, type "python3 automated_object_detection_test.py" and the program will r
 ## Results
 Results created from automated pipeline. The table show the number of simuations executed and their corresponding results:\
 
-| Runs        | Number  | Success | Fails |
+| **Runs**        | **Number**  | **Success** | **Fails** |
 | ---         |  ---    |  ---    | ---   |
-| All Objects | 738     | 725     | 13    |
-| Object 1    | 186     | 174     | 12    |
-| Object 2    | 184     | 183     | 1     |
-| Object 3    | 184     | 184     | 0     |
-| Object 4    | 184     | 184     | 0     |
+| **All Objects** | 738     | 725     | 13    |
+| **Object 1**    | 186     | 174     | 12    |
+| **Object 2**    | 184     | 183     | 1     |
+| **Object 3**    | 184     | 184     | 0     |
+| **Object 4**    | 184     | 184     | 0     |
 
 First image show the success for correct detection of object, point o in x, point o in y, and orientation. Second image show classification successrate for all four objects.\
 <img src="measures_prediction.png" width="425"/> <img src="objects_accuracy.png" width="425"/> 
