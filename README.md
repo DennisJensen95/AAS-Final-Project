@@ -1,6 +1,6 @@
 # AAS-Final-Project
 
-**By Dennis Jensen s155629, Martin Jensen s164033, Theis Munk Jensen s164022, & Stefan M. Carius Larsen s164029** 
+**By Dennis Jensen s155629, Martin Jensen s164033, Theis Munk Jensen s164022, & Stefan M. Carius Larsen s164029** \
 This notebook gives a quick introduction for installation of our code and gives a quick display of the results that was achieved. The project had three main coding challenges: SMR-CL implementation (Making the simulation drive using Kalman filter and graph planning algorithm), C++ with object detection, and automated pipeline written in python in order to create data for statistical analysis and dependability.
 
 ![Image of the final route taken](https://github.com/DennisJensen95/AAS-Final-Project/blob/master/smr_route2.png)
